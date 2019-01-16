@@ -1,0 +1,1 @@
+﻿A Stardew Valley mod that changes the color of the farmer's hair.
